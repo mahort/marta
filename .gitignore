@@ -1,11 +1,11 @@
-.DS_Store # macOS
+.DS_Store 
 
-*.class ## java
+*.class
 *.jar
 *.fatjar
 *marta.log.*
 
-.classpath ## eclipse
+.classpath
 .project
 .settings/ 
 bin/

@@ -1,7 +1,3 @@
-/*
- * written by Matt Horton (14th July, 2009)
- */
-
 package marta.taxa;
 
 import java.io.BufferedReader;
