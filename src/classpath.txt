@@ -1,0 +1,2 @@
+.:./jars/asm.jar:./jars/commons-logging-1.0.4.jar:./jars/jta.jar:./jars/xalan.jar:./jars/c3p0-0.9.1.jar:./jars/commons-logging-1.1.jar:./jars/log4j-1.2.15.jar:./jars/xercesImpl.jar:./jars/cglib-2.1.3.jar:./jars/dom4j-1.6.1.jar:./jars/pojos2.jar:./jars/xml-apis.jar:./jars/commons-collections-3.1.jar:./jars/hibernate3.jar:./jars/quartz-1.6.0.jar.:/Library/packages/mysql-connector-java-5.1.10/mysql-connector-java-5.1.10-bin.jar
+

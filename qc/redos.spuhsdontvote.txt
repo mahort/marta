@@ -1,0 +1,234 @@
+S000006665	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000003980	7106114	1883	GENUS	Streptomyces	0.0	2868.0	2868.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000003865	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000004356	219846748	53437	SPECIES	Nocardiopsis alba	0.0	2896.0	2896.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiopsaceae:Nocardiopsis:Nocardiopsis alba	1	2
+S000004362	NA	NA	NA	Uncertain	0.0	2847.0	2847.0	NA	NA	NA	NA	NA
+S000004412	167731156	338	GENUS	Xanthomonas	0.0	2969.0	2969.0	99.87	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	10	10
+S000007083	116282377	1883	GENUS	Streptomyces	0.0	2825.0	2825.0	99.65	0.98	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	1	1
+S000009214	NA	NA	NA	Uncertain	0.0	2829.0	2829.0	NA	NA	NA	NA	NA
+S000013670	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000013687	174119	1528	SPECIES	Eubacterium barkeri	0.0	2898.0	2898.0	100.00	0.96	Bacteria::Firmicutes:Clostridia:Clostridiales:Eubacteriaceae:Eubacterium:Eubacterium barkeri	1	2
+S000014133	9652350	1386	GENUS	Bacillus	0.0	3003.0	3003.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:	2	2
+S000015833	7416837	1125	GENUS	Microcystis	0.0	2888.0	2888.0	100.00	1	Bacteria::Cyanobacteria::Chroococcales::Microcystis:	7	7
+S000130514	228720470	29348	SPECIES	Clostridium spiroforme	0.0	2751.0	2751.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium spiroforme	1	1
+S000364380	30314141	1830	SPECIES	Rhodococcus ruber	0.0	2936.0	2936.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiaceae:Rhodococcus:Rhodococcus ruber	2	4
+S000364384	669074	2037	ORDER	Actinomycetales	0.0	2894.0	2894.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:::	2	2
+S000382981	219857108	104268	SPECIES	Tenacibaculum mesophilum	0.0	2862.0	2862.0	100.00	1	Bacteria::Bacteroidetes:Flavobacteria:Flavobacteriales:Flavobacteriaceae:Tenacibaculum:Tenacibaculum mesophilum	1	3
+S000387857	13195722	84677	SPECIES	Candidatus Xenohaliotis californiensis	0.0	2958.0	2958.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Candidatus Xenohaliotis californiensis	1	1
+S000399887	219857540	46239	GENUS	Mesoplasma	0.0	2948.0	2948.0	100.00	1	Bacteria::Tenericutes:Mollicutes:Entomoplasmatales:Entomoplasmataceae:Mesoplasma:	3	3
+S000413552	219846253	1385	ORDER	Bacillales	0.0	2936.0	2936.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:::	2	2
+S000414096	2114162	83553	GENUS	Chlamydophila	0.0	3069.0	3069.0	100.00	1	Bacteria::Chlamydiae:Chlamydiae (class):Chlamydiales:Chlamydiaceae:Chlamydophila:	2	2
+S000427743	175592	757	SPECIES	Pasteurella mairii	0.0	2910.0	2910.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Pasteurella:Pasteurella mairii	2	2
+S000437500	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000473604	32481077	237069	SPECIES	Tenuibacillus multivorans	0.0	2932.0	2932.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Tenuibacillus:Tenuibacillus multivorans	1	1
+S000483421	60458798	22	GENUS	Shewanella	0.0	2789.0	2789.0	100.00	0.99	Bacteria::Proteobacteria:Gammaproteobacteria:Alteromonadales:Shewanellaceae:Shewanella:	2	2
+S000499737	219857609	176598	SPECIES	Pseudoxanthomonas taiwanensis	0.0	3047.0	3047.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Pseudoxanthomonas:Pseudoxanthomonas taiwanensis	1	2
+S000352286	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000001617	219846747	2014	SPECIES	Nocardiopsis dassonvillei	0.0	2896.0	2896.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiopsaceae:Nocardiopsis:Nocardiopsis dassonvillei	1	2
+S000001636	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000002044	1945138	1961	SPECIES	Streptomyces virginiae	0.0	2954.0	2954.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:Streptomyces virginiae	1	2
+S000005838	219846903	69824	SPECIES	Clostridium cocleatum	0.0	2952.0	2952.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium cocleatum	1	1
+S000006492	219856884	290	SPECIES	Pseudomonas carboxydohydrogena	0.0	2868.0	2868.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas carboxydohydrogena	1	1
+S000008531	1666657	2014	SPECIES	Nocardiopsis dassonvillei	0.0	2896.0	2896.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiopsaceae:Nocardiopsis:Nocardiopsis dassonvillei	1	2
+S000008561	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000010876	90960131	1883	GENUS	Streptomyces	0.0	2864.0	2864.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	4	4
+S000020770	219846909	88189	SPECIES	Thermus igniterrae	0.0	2906.0	2906.0	100.00	1	Bacteria::Deinococcus-Thermus:Deinococci:Thermales:Thermaceae:Thermus:Thermus igniterrae	3	15
+S000088221	13397791	105841	SPECIES	Anaerostipes caccae	0.0	2886.0	2886.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Lachnospiraceae:Anaerostipes:Anaerostipes caccae	1	2
+S000088253	14485496	162491	GENUS	Oerskovia	0.0	2946.0	2946.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Cellulomonadaceae:Oerskovia:	2	2
+S000130468	60651123	872	GENUS	Desulfovibrio	0.0	2751.0	2751.0	98.77	0.95	Bacteria::Proteobacteria:Deltaproteobacteria:Desulfovibrionales:Desulfovibrionaceae:Desulfovibrio:	1	1
+S000249444	219878435	673	SPECIES	Grimontia hollisae	0.0	2969.0	2969.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Grimontia:Grimontia hollisae	1	1
+S000365818	224581438	115561	SPECIES	Halomonas hydrothermalis	0.0	2787.0	2787.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Oceanospirillales:Halomonadaceae:Halomonas:Halomonas hydrothermalis	1	2
+S000388163	53774165	32008	GENUS	Burkholderia	0.0	2936.0	2936.0	99.87	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Burkholderia:	2	2
+S000390521	28933384	1817	GENUS	Nocardia	0.0	2890.0	2890.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiaceae:Nocardia:	4	4
+S000428174	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000428175	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000428176	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000503537	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000528001	62465587	322508	SPECIES	Kocuria himachalensis	0.0	2892.0	2892.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Micrococcaceae:Kocuria:Kocuria himachalensis	1	2
+S000612855	76800486	346377	SPECIES	Echinicola pacifica	0.0	2702.0	2702.0	100.00	1	Bacteria::Bacteroidetes:Sphingobacteria:Sphingobacteriales:Cyclobacteriaceae:Echinicola:Echinicola pacifica	1	1
+S000618288	59939812	314237	SPECIES	Phyllobacterium leguminum	0.0	2777.0	2777.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Phyllobacteriaceae:Phyllobacterium:Phyllobacterium leguminum	3	5
+S000618290	59939814	314238	SPECIES	Phyllobacterium ifriqiyense	0.0	2777.0	2777.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Phyllobacteriaceae:Phyllobacterium:Phyllobacterium ifriqiyense	2	4
+S000010893	167731156	338	GENUS	Xanthomonas	0.0	2961.0	2961.0	99.73	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	10	10
+S000013503	190356750	953	GENUS	Wolbachia	0.0	2626.0	2626.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Wolbachia:	4	4
+S000089909	4581230	90729	SPECIES	Desulfobacterium catecholicum	0.0	2975.0	2975.0	100.00	1	Bacteria::Proteobacteria:Deltaproteobacteria:Desulfobacterales:Desulfobacteraceae:Desulfobacterium:Desulfobacterium catecholicum	1	1
+S000000936	4165398	86184	SPECIES	Pseudomonas pictorum	0.0	2948.0	2948.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas pictorum	1	1
+S000003580	1314189	2000	GENUS	Streptosporangium	0.0	2874.0	2874.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptosporangiaceae:Streptosporangium:	2	2
+S000012967	219856887	86187	SPECIES	Pseudomonas flectens	0.0	2987.0	2987.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas flectens	1	1
+S000016010	219878163	31988	GENUS	Aminobacter	0.0	2906.0	2906.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Phyllobacteriaceae:Aminobacter:	2	2
+S000016044	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000090477	7007476	662	GENUS	Vibrio	0.0	2829.0	2829.0	99.72	1	Bacteria::Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:	2	2
+S000112987	219878185	68569	SPECIES	Caulobacter leidyia	0.0	2858.0	2858.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Caulobacterales:Caulobacteraceae:Caulobacter:Caulobacter leidyia	1	1
+S000260980	NA	NA	NA	Uncertain	0.0	2981.0	2981.0	NA	NA	NA	NA	NA
+S000373337	50236439	284581	SPECIES	Bacillus koreensis	0.0	2716.0	2716.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:Bacillus koreensis	1	2
+S000383146	219857115	1865	GENUS	Actinoplanes	0.0	2916.0	2916.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Micromonosporaceae:Actinoplanes:	2	2
+S000383154	219857115	1865	GENUS	Actinoplanes	0.0	2916.0	2916.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Micromonosporaceae:Actinoplanes:	2	2
+S000383159	12964616	1865	GENUS	Actinoplanes	0.0	2916.0	2916.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Micromonosporaceae:Actinoplanes:	2	2
+S000389736	219857493	47054	GENUS	Dethiosulfovibrio	0.0	2906.0	2906.0	100.00	1	Bacteria::Synergistetes:Synergistia:Synergistales:Synergistaceae:Dethiosulfovibrio:	2	2
+S000392552	NA	NA	NA	Uncertain	0.0	2529.0	2529.0	NA	NA	NA	NA	NA
+S000399557	219846096	506	FAMILY	Alcaligenaceae	0.0	2862.0	2862.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae::	4	4
+S000429663	219857653	190721	SPECIES	Ralstonia insidiosa	0.0	2847.0	2847.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Ralstonia:Ralstonia insidiosa	1	3
+S000436876	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000436881	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000437290	NA	NA	NA	Uncertain	0.0	2854.0	2854.0	NA	NA	NA	NA	NA
+S000475562	63148639	1386	GENUS	Bacillus	0.0	2777.0	2777.0	99.93	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:	12	12
+S000543967	51965197	1763	GENUS	Mycobacterium	0.0	2985.0	2985.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	2	2
+S000573281	46518992	272164	SPECIES	Olleya marilimosa	0.0	2464.0	2464.0	100.00	1	Bacteria::Bacteroidetes:Flavobacteria:Flavobacteriales:Flavobacteriaceae:Olleya:Olleya marilimosa	1	1
+S000016080	NA	NA	NA	Uncertain	0.0	2950.0	2950.0	NA	NA	NA	NA	NA
+S000149329	35759002	168384	SPECIES	Bryantella formatexigens	0.0	2829.0	2829.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Lachnospiraceae:Bryantella:Bryantella formatexigens	2	2
+S000000827	7106114	1883	GENUS	Streptomyces	0.0	2868.0	2868.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000010667	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000270584	219878479	1883	GENUS	Streptomyces	0.0	2969.0	2969.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000387334	4574717	209	GENUS	Helicobacter	0.0	3199.0	3199.0	100.00	1	Bacteria::Proteobacteria:Epsilonproteobacteria:Campylobacterales:Helicobacteraceae:Helicobacter:	1	1
+S000392337	22324797	374	GENUS	Bradyrhizobium	0.0	2648.0	2648.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Bradyrhizobiaceae:Bradyrhizobium:	24	25
+S000395040	219857638	286	GENUS	Pseudomonas	0.0	2884.0	2884.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:	2	2
+S000395042	219857639	198620	SPECIES	Pseudomonas koreensis	0.0	2884.0	2884.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas koreensis	1	3
+S000396741	219846079	206506	SPECIES	Kerstersia gyiorum	0.0	2803.0	2803.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae:Kerstersia:Kerstersia gyiorum	1	1
+S000429506	38490250	1763	GENUS	Mycobacterium	0.0	2841.0	2841.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	16	16
+S000437162	797296	35701	SPECIES	Heliobacterium modesticaldum	0.0	2698.0	2698.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Heliobacteriaceae:Heliobacterium:Heliobacterium modesticaldum	1	2
+S000439350	971126	1911	SPECIES	Streptomyces griseus	0.0	3037.0	3037.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:Streptomyces griseus	1	2
+S000544200	71142390	1883	GENUS	Streptomyces	0.0	2934.0	2934.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544207	71142390	1883	GENUS	Streptomyces	0.0	2930.0	2930.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	3	3
+S000544210	126253764	1883	GENUS	Streptomyces	0.0	2852.0	2852.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	16	16
+S000544230	71142420	1883	GENUS	Streptomyces	0.0	2914.0	2914.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544232	71142422	1883	GENUS	Streptomyces	0.0	2910.0	2910.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544233	71142423	1883	GENUS	Streptomyces	0.0	2849.0	2849.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	3	3
+S000544234	71142424	1883	GENUS	Streptomyces	0.0	2928.0	2928.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544236	220681898	1883	GENUS	Streptomyces	0.0	2926.0	2926.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	4	4
+S000544245	71142453	1883	GENUS	Streptomyces	0.0	2932.0	2932.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	3	3
+S000544249	71142424	1883	GENUS	Streptomyces	0.0	2928.0	2928.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544254	93213433	1883	GENUS	Streptomyces	0.0	2922.0	2922.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000544259	71142449	1883	GENUS	Streptomyces	0.0	2854.0	2854.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000429467	19172384	187981	SPECIES	Marinobacter litoralis	0.0	2965.0	2965.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Alteromonadales:Alteromonadaceae:Marinobacter:Marinobacter litoralis	1	2
+S000003485	NA	NA	NA	Uncertain	0.0	2928.0	2928.0	NA	NA	NA	NA	NA
+S000005539	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000007747	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000012675	219878178	70856	SPECIES	Aeromonas popoffii	0.0	2789.0	2789.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Aeromonadales:Aeromonadaceae:Aeromonas:Aeromonas popoffii	1	2
+S000012757	1907093	43263	SPECIES	Pseudomonas alcaligenes	0.0	2958.0	2958.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas alcaligenes	1	4
+S000014993	38490250	1763	GENUS	Mycobacterium	0.0	3007.0	3007.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	13	13
+S000015432	219846797	338	GENUS	Xanthomonas	0.0	2965.0	2965.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	4	4
+S000022475	219846794	338	GENUS	Xanthomonas	0.0	2977.0	2977.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	2	2
+S000084736	21742835	1887	SPECIES	Streptomyces albogriseolus	0.0	3011.0	3011.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:Streptomyces albogriseolus	1	2
+S000099314	22799122	190895	SPECIES	Vibrio rotiferianus	0.0	2910.0	2910.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:Vibrio rotiferianus	1	2
+S000113115	4127498	74316	SPECIES	Brevundimonas aurantiaca	0.0	2807.0	2807.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Caulobacterales:Caulobacteraceae:Brevundimonas:Brevundimonas aurantiaca	1	2
+S000389438	219857485	123822	SPECIES	Haemophilus felis	0.0	3011.0	3011.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Haemophilus:Haemophilus felis	1	1
+S000391774	13123712	152490	SPECIES	Helicobacter marmotae	0.0	2920.0	2920.0	100.00	1	Bacteria::Proteobacteria:Epsilonproteobacteria:Campylobacterales:Helicobacteraceae:Helicobacter:Helicobacter marmotae	1	2
+S000414717	9368610	1279	GENUS	Staphylococcus	0.0	2910.0	2910.0	99.93	1	Bacteria::Firmicutes:Bacilli:Bacillales:Staphylococcaceae:Staphylococcus:	5	5
+S000414747	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000429490	219857646	39694	SPECIES	Mycobacterium poriferae	0.0	2870.0	2870.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:Mycobacterium poriferae	1	2
+S000432297	NA	NA	NA	Uncertain	0.0	2803.0	2803.0	NA	NA	NA	NA	NA
+S000436644	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000437035	33568536	517	GENUS	Bordetella	0.0	2849.0	2849.0	99.39	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Alcaligenaceae:Bordetella:	8	8
+S000463373	50897990	1763	GENUS	Mycobacterium	0.0	2936.0	2936.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	3	3
+S000473170	58389436	1763	GENUS	Mycobacterium	0.0	2854.0	2854.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	5	5
+S000544083	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000643553	NA	NA	NA	Uncertain	0.0	2821.0	2821.0	NA	NA	NA	NA	NA
+S000965361	157907368	2077	GENUS	Sporolactobacillus	0.0	2928.0	2928.0	99.87	1	Bacteria::Firmicutes:Bacilli:Bacillales:Sporolactobacillaceae:Sporolactobacillus:	2	2
+S000363265	13123717	209	GENUS	Helicobacter	0.0	2779.0	2779.0	99.31	0.99	Bacteria::Proteobacteria:Epsilonproteobacteria:Campylobacterales:Helicobacteraceae:Helicobacter:	1	1
+S000001022	895914	41203	SPECIES	Wolbachia melophagi	0.0	2704.0	2704.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Wolbachia:Wolbachia melophagi	1	1
+S000007629	219856889	86188	SPECIES	Pseudomonas geniculata	0.0	2896.0	2896.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas geniculata	1	1
+S000112583	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000133896	21327893	197162	SPECIES	Deferribacter desulfuricans	0.0	2862.0	2862.0	100.00	1	Bacteria::Deferribacteres:Deferribacteres (class):Deferribacterales:Deferribacteraceae:Deferribacter:Deferribacter desulfuricans	1	2
+S000260570	437763	1547	SPECIES	Clostridium ramosum	0.0	3009.0	3009.0	100.00	0.99	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium ramosum	1	1
+S000270387	37693280	374	GENUS	Bradyrhizobium	0.0	2936.0	2936.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Bradyrhizobiaceae:Bradyrhizobium:	1	1
+S000340900	219857531	135577	SPECIES	Idiomarina loihiensis	0.0	2805.0	2805.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Alteromonadales:Idiomarinaceae:Idiomarina:Idiomarina loihiensis	1	2
+S000400518	219846105	46239	GENUS	Mesoplasma	0.0	2965.0	2965.0	100.00	1	Bacteria::Tenericutes:Mollicutes:Entomoplasmatales:Entomoplasmataceae:Mesoplasma:	3	3
+S000414606	7240271	39483	SPECIES	Eubacterium cylindroides	0.0	2882.0	2882.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Eubacteriaceae:Eubacterium:Eubacterium cylindroides	1	1
+S000414619	762811	31971	SPECIES	Eubacterium dolichum	0.0	2904.0	2904.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Eubacteriaceae:Eubacterium:Eubacterium dolichum	1	1
+S000414620	762812	39494	SPECIES	Eubacterium tortuosum	0.0	2914.0	2914.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Eubacteriaceae:Eubacterium:Eubacterium tortuosum	1	1
+S000414629	530898	35801	SPECIES	Nitrospina gracilis	0.0	2837.0	2837.0	100.00	0.99	Bacteria::Proteobacteria:Deltaproteobacteria:Desulfobacterales:Nitrospinaceae:Nitrospina:Nitrospina gracilis	1	2
+S000414642	219846328	35825	SPECIES	Bacteroides cellulosolvens	0.0	2894.0	2894.0	100.00	1	Bacteria::Bacteroidetes:Bacteroidia:Bacteroidales:Bacteroidaceae:Bacteroides:Bacteroides cellulosolvens	1	1
+S000414668	73620287	780	GENUS	Rickettsia	0.0	2858.0	2858.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Rickettsia:	3	3
+S000416838	60100376	246875	GENUS	Algoriphagus	0.0	2920.0	2920.0	100.00	1	Bacteria::Bacteroidetes:Sphingobacteria:Sphingobacteriales:Cyclobacteriaceae:Algoriphagus:	2	2
+S000436343	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000436361	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000436481	NA	NA	NA	Uncertain	0.0	2611.0	2611.0	NA	NA	NA	NA	NA
+S000570234	57282602	190387	SPECIES	Lactovum miscens	0.0	2886.0	2886.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Streptococcaceae:Lactovum:Lactovum miscens	1	1
+S000575167	54402100	298657	SPECIES	Pseudoalteromonas spongiae	0.0	2783.0	2783.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Alteromonadales:Pseudoalteromonadaceae:Pseudoalteromonas:Pseudoalteromonas spongiae	1	2
+S000617251	81683236	304901	SPECIES	Actinospica robiniae	0.0	2862.0	2862.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Actinospicaceae:Actinospica:Actinospica robiniae	1	2
+S000627041	164562337	1883	GENUS	Streptomyces	0.0	2630.0	2630.0	97.44	0.97	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000652842	90818672	234	GENUS	Brucella	0.0	2835.0	2835.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:	4	4
+S000652843	90818672	234	GENUS	Brucella	0.0	2835.0	2835.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:	4	4
+S000381739	219856821	61645	SPECIES	Enterobacter asburiae	0.0	2819.0	2819.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae:Enterobacter:Enterobacter asburiae	1	2
+S000004827	219857121	1485	GENUS	Clostridium	0.0	2904.0	2904.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:	2	2
+S000000391	219846599	1663	GENUS	Arthrobacter	0.0	2920.0	2920.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Micrococcaceae:Arthrobacter:	2	2
+S000004786	2198532	1828	SPECIES	Rhodococcus fascians	0.0	2593.0	2593.0	99.85	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiaceae:Rhodococcus:Rhodococcus fascians	3	7
+S000009681	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000011900	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000012396	NA	NA	NA	Uncertain	0.0	2882.0	2882.0	NA	NA	NA	NA	NA
+S000014552	7715013	1883	GENUS	Streptomyces	0.0	3019.0	3019.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	3	3
+S000015066	12055017	83681	GENUS	Nonomuraea	0.0	2868.0	2868.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptosporangiaceae:Nonomuraea:	2	2
+S000021698	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000022165	44290	1763	GENUS	Mycobacterium	0.0	2864.0	2864.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Mycobacteriaceae:Mycobacterium:	2	2
+S000129236	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000265215	223006872	384	SPECIES	Rhizobium leguminosarum	0.0	2924.0	2924.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Rhizobiaceae:Rhizobium:Rhizobium leguminosarum	2	9
+S000391436	15011022	1163	GENUS	Anabaena	0.0	2714.0	2714.0	100.00	1	Bacteria::Cyanobacteria::Nostocales:Nostocaceae:Anabaena:	1	1
+S000394148	16904792	142577	GENUS	Prauserella	0.0	2979.0	2979.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Pseudonocardiaceae:Prauserella:	1	1
+S000398534	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000400216	37730452	89583	GENUS	Gluconacetobacter	0.0	2866.0	2866.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhodospirillales:Acetobacteraceae:Gluconacetobacter:	3	3
+S000413948	157907493	1578	GENUS	Lactobacillus	0.0	3017.0	3017.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Lactobacillaceae:Lactobacillus:	8	8
+S000414547	417991	234	GENUS	Brucella	0.0	2767.0	2767.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:	93	93
+S000428669	219857356	82633	SPECIES	Cupriavidus pauculus	0.0	2934.0	2934.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Cupriavidus:Cupriavidus pauculus	1	2
+S000436219	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000542971	38093231	253245	SPECIES	Owenweeksia hongkongensis	0.0	2938.0	2938.0	100.00	1	Bacteria::Bacteroidetes:Flavobacteria:Flavobacteriales:Cryomorphaceae:Owenweeksia:Owenweeksia hongkongensis	1	1
+S000608913	78038891	1485	GENUS	Clostridium	0.0	2888.0	2888.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:	2	2
+S000608915	78271519	29421	SPECIES	Nitrobacter vulgaris	0.0	2856.0	2856.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Bradyrhizobiaceae:Nitrobacter:Nitrobacter vulgaris	3	11
+S000721496	46241219	234	GENUS	Brucella	0.0	2755.0	2755.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Brucellaceae:Brucella:	94	94
+S000130996	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000247799	38091110	212663	SPECIES	Vibrio tasmaniensis	0.0	2979.0	2979.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:Vibrio tasmaniensis	1	2
+S000004699	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000016681	174554	995	SPECIES	Flexibacter canadensis	0.0	2777.0	2777.0	100.00	1	Bacteria::Bacteroidetes:Sphingobacteria:Sphingobacteriales:Flexibacteraceae:Flexibacter:Flexibacter canadensis	1	1
+S000018802	224581426	182182	SPECIES	Actinobacillus scotiae	0.0	2967.0	2967.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Actinobacillus:Actinobacillus scotiae	1	2
+S000021644	219878168	84521	SPECIES	Dolosicoccus paucivorans	0.0	2993.0	2993.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Aerococcaceae:Dolosicoccus:Dolosicoccus paucivorans	1	1
+S000089166	76096756	662	GENUS	Vibrio	0.0	2841.0	2841.0	99.93	1	Bacteria::Proteobacteria:Gammaproteobacteria:Vibrionales:Vibrionaceae:Vibrio:	3	3
+S000131316	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000271817	219878479	1883	GENUS	Streptomyces	0.0	2969.0	2969.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000271818	219878483	1883	GENUS	Streptomyces	0.0	2965.0	2965.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000388573	18252617	103816	SPECIES	Rhodococcus pyridinivorans	0.0	2928.0	2928.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiaceae:Rhodococcus:Rhodococcus pyridinivorans	2	4
+S000389043	219857463	111504	SPECIES	Bartonella birtlesii	0.0	2777.0	2777.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Bartonellaceae:Bartonella:Bartonella birtlesii	1	2
+S000390947	219857540	46239	GENUS	Mesoplasma	0.0	2969.0	2969.0	100.00	1	Bacteria::Tenericutes:Mollicutes:Entomoplasmatales:Entomoplasmataceae:Mesoplasma:	2	2
+S000391359	219857550	68895	SPECIES	Cupriavidus basilensis	0.0	2934.0	2934.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Cupriavidus:Cupriavidus basilensis	1	2
+S000414273	173919	827	SPECIES	Bacteroides ureolyticus	0.0	2833.0	2833.0	100.00	1	Bacteria::Bacteroidetes:Bacteroidia:Bacteroidales:Bacteroidaceae:Bacteroides:Bacteroides ureolyticus	1	1
+S000414371	NA	NA	NA	Uncertain	0.0	2648.0	2648.0	NA	NA	NA	NA	NA
+S000436053	176326	954	SPECIES	Wolbachia persica	0.0	2833.0	2833.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rickettsiales:Rickettsiaceae:Wolbachia:Wolbachia persica	1	1
+S000436091	175039	1630	SPECIES	Lactobacillus vitulinus	0.0	2805.0	2805.0	100.00	0.99	Bacteria::Firmicutes:Bacilli:Lactobacillales:Lactobacillaceae:Lactobacillus:Lactobacillus vitulinus	1	1
+S000436093	175044	31973	SPECIES	Lactobacillus catenaformis	0.0	2817.0	2817.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Lactobacillaceae:Lactobacillus:Lactobacillus catenaformis	1	1
+S000436094	176048	1323	SPECIES	Streptococcus pleomorphus	0.0	2779.0	2779.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Streptococcaceae:Streptococcus:Streptococcus pleomorphus	1	1
+S000436096	144837	1522	SPECIES	Clostridium innocuum	0.0	2908.0	2908.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Clostridiaceae:Clostridium:Clostridium innocuum	1	1
+S000438222	219846441	749	SPECIES	Pasteurella aerogenes	0.0	2785.0	2785.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Pasteurella:Pasteurella aerogenes	1	1
+S000471716	49256719	264697	SPECIES	Bacillus muralis	0.0	2981.0	2981.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:Bacillus muralis	1	2
+S000471778	84619366	1654	GENUS	Actinomyces	0.0	3007.0	3007.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Actinomycetaceae:Actinomyces:	2	2
+S000495764	21728095	200618	SPECIES	Nocardioides aromaticivorans	0.0	2969.0	2969.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardioidaceae:Nocardioides:Nocardioides aromaticivorans	1	3
+S000448051	8489220	747	SPECIES	Pasteurella multocida	0.0	2868.0	2868.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Pasteurella:Pasteurella multocida	6	10
+S000000256	160357967	1833	SPECIES	Rhodococcus erythropolis	0.0	2581.0	2581.0	99.70	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Nocardiaceae:Rhodococcus:Rhodococcus erythropolis	6	16
+S000001973	219846817	58134	SPECIES	Desulfotomaculum guttoideum	0.0	2963.0	2963.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Peptococcaceae:Desulfotomaculum:Desulfotomaculum guttoideum	1	1
+S000002402	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000004582	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000004604	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000005060	219846855	137730	SPECIES	Facklamia ignava	0.0	2793.0	2793.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Aerococcaceae:Facklamia:Facklamia ignava	1	2
+S000007289	511107	33943	SPECIES	Bacillus tusciae	0.0	2932.0	2932.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:Bacillus tusciae	1	1
+S000008975	219846794	338	GENUS	Xanthomonas	0.0	2977.0	2977.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	2	2
+S000009302	219878353	1883	GENUS	Streptomyces	0.0	2870.0	2870.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	2	2
+S000011639	206581497	1883	GENUS	Streptomyces	0.0	2920.0	2920.0	99.93	1	Bacteria::Actinobacteria:Actinobacteria (class):Actinomycetales:Streptomycetaceae:Streptomyces:	20	20
+S000014353	NA	NA	NA	Filtered	NA	NA	NA	NA	NA	NA	NA	NA
+S000021505	174515	1735	SPECIES	Eubacterium biforme	0.0	2872.0	2872.0	100.00	1	Bacteria::Firmicutes:Clostridia:Clostridiales:Eubacteriaceae:Eubacterium:Eubacterium biforme	1	1
+S000108891	41056891	286	GENUS	Pseudomonas	0.0	2858.0	2858.0	99.66	0.96	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:	1	1
+S000381463	219846806	57489	SPECIES	Thiorhodococcus minor	0.0	2874.0	2874.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Chromatiales:Chromatiaceae:Thiorhodococcus:Thiorhodococcus minor	1	2
+S000392963	15021665	82802	GENUS	Trichococcus	0.0	2940.0	2940.0	100.00	1	Bacteria::Firmicutes:Bacilli:Lactobacillales:Carnobacteriaceae:Trichococcus:	2	2
+S000413727	219846264	522	GENUS	Acidiphilium	0.0	2801.0	2801.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhodospirillales:Acetobacteraceae:Acidiphilium:	2	2
+S000413728	146400702	524	SPECIES	Acidiphilium cryptum	0.0	2801.0	2801.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhodospirillales:Acetobacteraceae:Acidiphilium:Acidiphilium cryptum	2	10
+S000413731	219846264	522	GENUS	Acidiphilium	0.0	2801.0	2801.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhodospirillales:Acetobacteraceae:Acidiphilium:	2	2
+S000413734	21728094	356	ORDER	Rhizobiales	0.0	2755.0	2755.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:::	5	5
+S000414226	4730876	1678	GENUS	Bifidobacterium	0.0	3001.0	3001.0	100.00	1	Bacteria::Actinobacteria:Actinobacteria (class):Bifidobacteriales:Bifidobacteriaceae:Bifidobacterium:	2	2
+S000428332	219857281	651740	SPECIES	Pseudomonas cedrina	0.0	3005.0	3005.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pseudomonadales:Pseudomonadaceae:Pseudomonas:Pseudomonas cedrina	1	2
+S000428396	219857289	93980	SPECIES	Nitrobacter alkalicus	0.0	2734.0	2734.0	100.00	1	Bacteria::Proteobacteria:Alphaproteobacteria:Rhizobiales:Bradyrhizobiaceae:Nitrobacter:Nitrobacter alkalicus	1	3
+S000448052	8489220	747	SPECIES	Pasteurella multocida	0.0	2868.0	2868.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Pasteurellales:Pasteurellaceae:Pasteurella:Pasteurella multocida	6	10
+S001156816	193227130	85072	GENUS	Allochromatium	0.0	2888.0	2888.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Chromatiales:Chromatiaceae:Allochromatium:	2	2
+S000133399	219878430	543	FAMILY	Enterobacteriaceae	0.0	2961.0	2961.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Enterobacteriales:Enterobacteriaceae::	2	2
+S000381394	167731156	338	GENUS	Xanthomonas	0.0	2977.0	2977.0	100.00	1	Bacteria::Proteobacteria:Gammaproteobacteria:Xanthomonadales:Xanthomonadaceae:Xanthomonas:	9	9
+S000387938	7381230	93218	SPECIES	Pandoraea apista	0.0	2944.0	2944.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Pandoraea:Pandoraea apista	1	2
+S000387939	7381231	93220	SPECIES	Pandoraea pnomenusa	0.0	2914.0	2914.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Pandoraea:Pandoraea pnomenusa	1	2
+S000437629	NA	NA	NA	Uncertain	0.0	2634.0	2634.0	NA	NA	NA	NA	NA
+S000532739	38018641	32008	GENUS	Burkholderia	0.0	2944.0	2944.0	100.00	1	Bacteria::Proteobacteria:Betaproteobacteria:Burkholderiales:Burkholderiaceae:Burkholderia:	2	2
+S000690544	188496906	644	SPECIES	Aeromonas hydrophila	0.0	2664.0	2664.0	99.78	1	Bacteria::Proteobacteria:Gammaproteobacteria:Aeromonadales:Aeromonadaceae:Aeromonas:Aeromonas hydrophila	6	17
+S001014161	170285665	1386	GENUS	Bacillus	0.0	3035.0	3035.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:	2	2
+S001014162	170285665	1386	GENUS	Bacillus	0.0	3035.0	3035.0	100.00	1	Bacteria::Firmicutes:Bacilli:Bacillales:Bacillaceae:Bacillus:	2	2

@@ -1,0 +1,14 @@
+.DS_Store # macOS
+
+*.class ## java
+*.jar
+*.fatjar
+*marta.log.*
+
+.classpath ## eclipse
+.project
+.settings/ 
+bin/
+*.tmp
+*.tgz
+*.swp

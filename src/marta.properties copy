@@ -1,0 +1,7 @@
+dburl=jdbc:mysql://taxadb.gmi.oeaw.ac.at/taxa
+dbdriver=com.mysql.jdbc.Driver
+dbuserid=matt.horton
+dbpassword=taxa
+trimpathovarassignment=false
+spuhsvote=true
+getfulltaxonomy=taxaToTest.txt
